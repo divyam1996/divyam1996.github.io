@@ -4,8 +4,8 @@ description: > # your text below (remove <br> elements if you don't need line br
  Senior Frontend Engineer
   <br><br>
   <a href="mailto:divyambansal17@gmail.com">divyambansal17@gmail.com </a>
-  <br>
+  <br><br>
   <a href="https://www.linkedin.com/in/divyambansal/">LinkedIn Profile</a>
-  <br>
+  <br><br>
   <a href="https://www.gihub.com/divyam1996/">Gihub</a> 
 theme: jekyll-theme-minimal
