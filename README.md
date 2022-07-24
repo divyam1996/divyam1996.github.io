@@ -37,9 +37,9 @@ Worked on java , hybris framework and promotion engine. Created registration pro
 
 ## Education
 
-### **GURU NANAK DEV UNIVERSITY**
-### BTech Computer Science (2012- 2016)
-GPA 8.75
+### **JAYPEE INSTITUTE OF INFORMATION TECHNOLOGY**
+### BTech Computer Science (2015- 2019)
+GPA 6.6
 
 ---
 
